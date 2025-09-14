@@ -48,6 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaheer-r&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<!--
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 <picture>
@@ -57,4 +58,5 @@
   <br>
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
+out -->            
 
