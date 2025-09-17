@@ -23,6 +23,16 @@
 <a href="https://www.hackerrank.com/z4professionalw1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="z4professionalw1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zaheer77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zaheer77" height="30" width="40" /></a>
 </p>
+  <a href="https://github.com/dereknguyen269">
+    <img src="https://komarev.com/ghpvc/?username=zaheer-r" alt="page views">
+  </a>
+  <a href="https://github.com/dereknguyen269?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/zaheer-r?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+
 
 <!--trophies-->
 <div align="center">
@@ -38,7 +48,9 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 ###
-
+<a href="#dereknguyen269-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaheer-r&show_icons=true" alt="dereknguyen269" align="right" />
+</a>
 
 <br>
 <div align="center">
