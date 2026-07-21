@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Skills<br><br>👨‍💻 All of my projects are available at https://github.com/ZAHEER-R<br><br>📫 How to reach me: zaheerrachakula@gmail.com<br><br>📄 Know about my experiences www.linkedin.com/in/zaheer-rachakula-ln<br><br>⚡ Fun fact I am Directionless.
+🌱 I’m currently learning Skills<br><br>👨‍💻 All of my projects are available at https://github.com/ZAHEER-R<br><br>📫 How to reach me: zaheerrachakula@gmail.com<br><br>📄 Know about my experiences www.linkedin.com/in/zrln<br><br>⚡ Fun fact I am Directionless.
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=zaheer-r)
 
