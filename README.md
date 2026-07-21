@@ -11,15 +11,15 @@
 
 ### 📊 GitHub Stats
 
-![zaheer-r's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaheer-r&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+[![zaheer-r's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaheer-r&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/zaheer-r)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=zaheer-r&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zaheer-r&theme=dark&hide_border=true)](https://github.com/zaheer-r)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheer-r&theme=dark&hide_border=true&include_all_commits=true&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheer-r&theme=dark&hide_border=true&layout=compact&include_all_commits=true)](https://github.com/zaheer-r)
 
+### 🏆 Top Contributed Repo
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zaheer-r&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=zaheer-r&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/zaheer-r)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zaheer-r&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
